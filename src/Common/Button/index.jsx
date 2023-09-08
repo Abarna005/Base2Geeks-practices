@@ -1,10 +1,10 @@
 import React from "react";
-import Button from "@mui/material";
+import Button from "@mui/material/Button";
 
-export default function index() {
+export default function ButtonComponent() {
   return (
     <div>
-      <Button>NEXT</Button>
+      <Button variant="contained">NEXT</Button>
     </div>
   );
 }
