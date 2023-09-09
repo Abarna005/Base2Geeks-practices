@@ -7,7 +7,7 @@ import RadioButtonsGroup from './Common/test/index.jsx';
 
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
-    {/* <App /> */}
-    <RadioButtonsGroup/>
+    <App />
+    {/* <RadioButtonsGroup/> */}
   </React.StrictMode>
 );
